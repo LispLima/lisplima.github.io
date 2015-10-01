@@ -1,0 +1,5 @@
+title:         λima
+description:   Lisp Lima User Group
+tag_text:      (lisp lima)
+
+exclude: ["vendor"]
